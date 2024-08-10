@@ -1,1 +1,1 @@
-Test Binaries for the USDG wallet
+First release for the USDG QT wallet
