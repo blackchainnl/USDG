@@ -1,1 +1,1 @@
-First release for the USDG QT wallet
+Binaries for the USDG QT wallet
